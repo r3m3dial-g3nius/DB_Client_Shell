@@ -1,5 +1,7 @@
 package Utility;
 
+//   ----------------------   THIS IS A TEMPLATE FOR DB CLIENT CONNECTION   -----------------------------
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
